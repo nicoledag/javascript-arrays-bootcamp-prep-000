@@ -43,3 +43,9 @@ array = array.slice(1);
 return array
 
 }
+
+
+functin destructivelyRemoveElementFromEndOfArray(array){
+
+  
+}
