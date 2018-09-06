@@ -32,6 +32,6 @@ return array[index]
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array, index){
-return array.shift()
+return array.shift(index)
 
 }
