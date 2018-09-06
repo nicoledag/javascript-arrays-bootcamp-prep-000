@@ -47,5 +47,6 @@ return array
 
 functin destructivelyRemoveElementFromEndOfArray(array){
 
-  
+  array.pop();
+  return array;
 }
